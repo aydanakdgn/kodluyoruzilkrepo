@@ -36,5 +36,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
-[Patika.dev](www.patika.dev)
+https://app.patika.dev/aydanakdgn
 
